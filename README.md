@@ -27,7 +27,7 @@ Check the [changelog here](https://github.com/aravindvnair99/Verilog/commits/mas
 
 # :scroll: I found some bugs or issues. Where do I report?
 
-Report [here](https://github.com/aravindvnair99/Verilog/issues/new) in detail answering these questions:
+Report [here](https://github.com/aravindvnair99/Verilog/issues/new/choose) in detail answering these questions:
 
 * What steps did you take to make the bug appear?
 * How can the bug be fixed? (In case you know)
