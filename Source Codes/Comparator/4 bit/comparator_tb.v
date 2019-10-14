@@ -30,5 +30,5 @@ module comparator_tb;
 		B = 10;
 		#100;
 	end
-  
+
 endmodule
