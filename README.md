@@ -1,4 +1,4 @@
-# Verilog
+# Verilog ![](https://komarev.com/ghpvc/?username=AravindVNair99&label=Views)
 Collection of beginner friendly Verilog programs.
 
 # :octocat: How to contribute?
